@@ -6,6 +6,16 @@ A comprehensive medical analysis platform with multi-disease prediction capabili
 
 AI Health Analyzer is a cutting-edge healthcare application that leverages artificial intelligence to provide users with instant health insights and risk assessments. The platform features a complete authentication system, light/dark theme support, and multiple specialized health analyzers.
 
+## AI Health Predictor Demo
+<img width="1897" height="1027" alt="Screenshot 2025-10-16 225431" src="https://github.com/user-attachments/assets/016c0997-04df-4487-b494-24a92fa71d10" />
+<img width="1892" height="882" alt="Screenshot 2025-10-16 225703" src="https://github.com/user-attachments/assets/6d394e5c-75ca-482b-afe0-4def1d783f87" />
+<img width="1479" height="849" alt="Screenshot 2025-10-16 225744" src="https://github.com/user-attachments/assets/e6dd2f31-9bb9-4ffb-937e-a71739826900" />
+<img width="1476" height="812" alt="Screenshot 2025-10-16 225810" src="https://github.com/user-attachments/assets/52cba3f1-ec63-4cf8-bcaf-55f25cebc0d4" />
+<img width="1478" height="918" alt="Screenshot 2025-10-16 230020" src="https://github.com/user-attachments/assets/db25cf05-776c-462e-8d05-8c0be2af4b92" />
+<img width="1486" height="886" alt="Screenshot 2025-10-16 230301" src="https://github.com/user-attachments/assets/ebd48516-6a8f-4e06-8793-243721b56632" />
+<img width="1486" height="886" alt="image" src="https://github.com/user-attachments/assets/5cdf1888-eb93-465f-b12d-33c1eec1f76e" />
+
+
 ## 🌟 Key Features
 
 ### 🔐 Authentication
